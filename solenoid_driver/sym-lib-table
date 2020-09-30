@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name solenoid_driver_library)(type Legacy)(uri ${KIPRJMOD}/solenoid_driver_library.lib)(options "")(descr ""))
+)

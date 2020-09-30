@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FP6291
+F https://datasheet.lcsc.com/szlcsc/1812101116_Feeling-Tech-FP6291LR-G1_C18701.pdf
+$ENDCMP
+#
+$CMP TPS2553DBVR
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TPS2553DBVR_C55266.pdf
+$ENDCMP
+#
+#End Doc Library
