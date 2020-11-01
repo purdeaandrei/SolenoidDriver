@@ -347,7 +347,7 @@ U 1 1 5F3E518F
 P 8050 3775
 F 0 "L1" H 8050 3990 50  0000 C CNN
 F 1 "4.7uH" H 8050 3899 50  0000 C CNN
-F 2 "solenoid_driver_footprint_library:footprint_for_MWSA0402" H 8050 3775 50  0001 C CNN
+F 2 "solenoid_driver_footprint_library:footprint_for_MWSA0402_HANDSOLD" H 8050 3775 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1908262302_Sunlord-MWSA0503S-4R7MT_C408410.pdf" H 8050 3775 50  0001 C CNN
 F 4 " C408337" H 8050 3775 50  0001 C CNN "LCSC"
 	1    8050 3775
