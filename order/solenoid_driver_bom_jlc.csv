@@ -1,7 +1,7 @@
 "Comment","Designator","Footprint","LCSC Part #"
 "100nF","C2,C4,C1,C8","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C49678"
 "220uF","C3","CP_Elec_6.3x7.7","C127327"
-"22uF","C5,C6","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C45783"
+"22uF","C5,C6","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C602037"
 "1uF","C7","C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C28323"
 "LED","D1","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C2296"
 "D_Schottky","D2","D_SMA","C2480"

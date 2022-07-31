@@ -1,7 +1,7 @@
 Reference, Quantity, Value, Footprint, Datasheet, LCSC
 C2 C4 C1 C8 ,4,"100nF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C49678"
 C3 ,1,"220uF","Capacitor_SMD:CP_Elec_6.3x7.7","~","C127327"
-C5 C6 ,2,"22uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C45783"
+C5 C6 ,2,"22uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C602037"
 C7 ,1,"1uF","Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C28323"
 D1 ,1,"LED","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C2296"
 D2 ,1,"D_Schottky","Diode_SMD:D_SMA","~","C2480"
