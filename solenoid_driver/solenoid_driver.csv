@@ -11,7 +11,7 @@ J1 ,1,"Conn_02x03_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_V
 J2 ,1,"Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
 J3 J4 ,2,"Conn_01x02","solenoid_driver_footprint_library:shortable","~"
 L1 ,1,"4.7uH","solenoid_driver_footprint_library:footprint_for_MWSA0503_HANDSOLD","https://datasheet.lcsc.com/szlcsc/1908262302_Sunlord-MWSA0503S-4R7MT_C408410.pdf","C408410"
-R1 R5 R2 R8 ,4,"100k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17407"
+R1 R5 R2 R8 ,4,"100k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C149504"
 R3 ,1,"62k","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17783"
 R4 ,1,"470","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17710"
 R6 ,1,"8k2","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","~","C17828"
